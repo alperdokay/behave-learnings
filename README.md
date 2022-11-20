@@ -2,7 +2,7 @@
 
 A basic usage of the behave framework in Python.
 
-Writing feature tests in Behave is really easy and fun. Just have a check on what I've written.
+Writing feature tests in Behave is really easy and fun. Just have a check on what I've written. There is a lot more to come soon!
 
 ### Setup
 
